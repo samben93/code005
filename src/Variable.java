@@ -6,7 +6,7 @@ public class Variable {
 
         int x=2;
         int y=a*x + b*x*x + c*(x );
-
+        int z =3;
         System.out.println(y);
     }
 }
